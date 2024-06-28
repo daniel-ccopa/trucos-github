@@ -29,6 +29,11 @@ git remote add origin https://github.com/daniel-ccopa/daniel-ccopa.git
 git push -u origin main
 ```
 
+para el token de acceso
+```bash
+git remote add origin https://tok@github.com/daniel-ccopa/daniel-ccopa.git
+```
+
 Si tenemos dos o mas archivos:
 ```bash
 git add .
