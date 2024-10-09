@@ -5,11 +5,11 @@
 
 Configura un nombre de usuario:
 ```bash
-git config --global user.name "daniel-ccopa"
+git config --global user.name ""
 ```
 Configura un email:
 ```bash
-git config --global user.email "danielccopa76@gmial.com"
+git config --global user.email ""
 ```
 
 ### Ver la configuración de git
